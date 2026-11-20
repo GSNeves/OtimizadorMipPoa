@@ -1,0 +1,2343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+     http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="x" for="node" attr.name="x coordinate" attr.type="double"/>
+  <key id="y" for="node" attr.name="y coordinate" attr.type="double"/>
+  <key id="label" for="node" attr.name="station name" attr.type="string"/>
+  <key id="l_C3" for="edge" attr.name="C3" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <key id="l_T10" for="edge" attr.name="T10" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <key id="l_C31" for="edge" attr.name="C31" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <key id="l_T13" for="edge" attr.name="T13" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <key id="l_T11" for="edge" attr.name="T11" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <key id="l_T52" for="edge" attr.name="T52" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <key id="l_T4" for="edge" attr.name="T4" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <key id="l_T3" for="edge" attr.name="T3" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <key id="l_T5" for="edge" attr.name="T5" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <key id="l_T9" for="edge" attr.name="T9" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <key id="l_T2A2" for="edge" attr.name="T2A2" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <key id="l_T7" for="edge" attr.name="T7" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <key id="l_T2A1" for="edge" attr.name="T2A1" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <key id="l_T6" for="edge" attr.name="T6" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <key id="l_T112" for="edge" attr.name="T112" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <key id="l_T22" for="edge" attr.name="T22" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <key id="l_T111" for="edge" attr.name="T111" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <key id="l_T12" for="edge" attr.name="T12" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <key id="l_T12A" for="edge" attr.name="T12A" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <key id="l_T1" for="edge" attr.name="T1" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <key id="l_343" for="edge" attr.name="343" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <key id="l_T2" for="edge" attr.name="T2" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <key id="l_T2A" for="edge" attr.name="T2A" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <key id="l_T51" for="edge" attr.name="T51" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <key id="l_T8" for="edge" attr.name="T8" attr.type="boolean" color.r="204" color.g="119" color.b="34">
+    <default>FALSE</default>
+  </key>
+  <graph id="G" edgedefault="directed">
+    <node id="n10441">
+        <data key="x">211.49999999999991</data>
+        <data key="y">62.0</data>
+        <data key="label">Albion 402 </data>
+    </node>
+    <node id="n10548">
+        <data key="x">174.4999999999999</data>
+        <data key="y">90.0</data>
+        <data key="label">Artur Rocha Df 1111 Praça</data>
+    </node>
+    <node id="n7450">
+        <data key="x">165.4999999999998</data>
+        <data key="y">77.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10485">
+        <data key="x">236.0</data>
+        <data key="y">50.5</data>
+        <data key="label">Campus Ufrgs - Agronomia Sn Entrada Iph</data>
+    </node>
+    <node id="n8095">
+        <data key="x">155.4999999999999</data>
+        <data key="y">73.99999999999997</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10520">
+        <data key="x">218.0</data>
+        <data key="y">82.0</data>
+        <data key="label">Protasio Alves 6659 Pizzaria Barao</data>
+    </node>
+    <node id="n10594">
+        <data key="x">193.49999999999991</data>
+        <data key="y">102.99999999999994</data>
+        <data key="label">Cristovao Colombo 4266 </data>
+    </node>
+    <node id="n7058">
+        <data key="x">185.49999999999994</data>
+        <data key="y">78.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n8232">
+        <data key="x">208.49999999999991</data>
+        <data key="y">63.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10453">
+        <data key="x">175.5</data>
+        <data key="y">21.0</data>
+        <data key="label">Cavalhada 3449 </data>
+    </node>
+    <node id="n10604">
+        <data key="x">160.4999999999999</data>
+        <data key="y">110.0</data>
+        <data key="label">Rio Grande Sn </data>
+    </node>
+    <node id="n10854">
+        <data key="x">139.49999999999977</data>
+        <data key="y">96.99999999999997</data>
+        <data key="label">Marechal Deodoro Pça. Mal. Deodor Df Assembléia Legislativa</data>
+    </node>
+    <node id="n7559">
+        <data key="x">186.4999999999999</data>
+        <data key="y">119.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10664">
+        <data key="x">208.49999999999991</data>
+        <data key="y">62.0</data>
+        <data key="label">Prof Cristiano Fischer Df 2140 </data>
+    </node>
+    <node id="n8482">
+        <data key="x">186.49999999999997</data>
+        <data key="y">57.00000000000003</data>
+        <data key="label"></data>
+    </node>
+    <node id="n7420">
+        <data key="x">154.4999999999998</data>
+        <data key="y">95.99999999999997</data>
+        <data key="label"></data>
+    </node>
+    <node id="n9191">
+        <data key="x">164.4999999999998</data>
+        <data key="y">79.99999999999997</data>
+        <data key="label"></data>
+    </node>
+    <node id="n8036">
+        <data key="x">170.4999999999998</data>
+        <data key="y">72.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10591">
+        <data key="x">166.4999999999999</data>
+        <data key="y">56.000000000000114</data>
+        <data key="label">Cel Neves 114 Igreja Medianeira</data>
+    </node>
+    <node id="n10350">
+        <data key="x">158.49999999999977</data>
+        <data key="y">68.99999999999997</data>
+        <data key="label">Ipiranga Ef Bpm </data>
+    </node>
+    <node id="n10717">
+        <data key="x">211.5</data>
+        <data key="y">61.0</data>
+        <data key="label">Albion 218 </data>
+    </node>
+    <node id="n8995">
+        <data key="x">175.5</data>
+        <data key="y">0.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10564">
+        <data key="x">209.49999999999991</data>
+        <data key="y">99.0</data>
+        <data key="label">Joao Wallig Df 492 </data>
+    </node>
+    <node id="n10599">
+        <data key="x">208.99999999999994</data>
+        <data key="y">108.49999999999994</data>
+        <data key="label">Assis Brasil 3172 </data>
+    </node>
+    <node id="n9871">
+        <data key="x">219.0</data>
+        <data key="y">61.5</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10418">
+        <data key="x">210.99999999999994</data>
+        <data key="y">106.49999999999994</data>
+        <data key="label">Dom Diogo De Souza 483 </data>
+    </node>
+    <node id="n7216">
+        <data key="x">228.0</data>
+        <data key="y">49.5</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10454">
+        <data key="x">175.5</data>
+        <data key="y">20.0</data>
+        <data key="label">Cavalhada 3621 </data>
+    </node>
+    <node id="n8272">
+        <data key="x">196.49999999999991</data>
+        <data key="y">92.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n7556">
+        <data key="x">142.49999999999784</data>
+        <data key="y">100.99999999999997</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10121">
+        <data key="x">166.4999999999999</data>
+        <data key="y">124.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10252">
+        <data key="x">175.5</data>
+        <data key="y">1.0</data>
+        <data key="label">Seis Mil Trezentos Vinte Cinco Sn </data>
+    </node>
+    <node id="n7979">
+        <data key="x">176.4999999999999</data>
+        <data key="y">110.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n9183">
+        <data key="x">161.5</data>
+        <data key="y">35.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10357">
+        <data key="x">248.0</data>
+        <data key="y">5.500000000000075</data>
+        <data key="label">Joao Antonio Silveira Df 4065 </data>
+    </node>
+    <node id="n9152">
+        <data key="x">172.5</data>
+        <data key="y">28.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n7974">
+        <data key="x">174.4999999999999</data>
+        <data key="y">111.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10455">
+        <data key="x">237.0</data>
+        <data key="y">49.5</data>
+        <data key="label">Campus Ufrgs - Agronomia Sn Iph Ufrgs</data>
+    </node>
+    <node id="n8523">
+        <data key="x">211.5</data>
+        <data key="y">60.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10525">
+        <data key="x">168.5</data>
+        <data key="y">28.0</data>
+        <data key="label">Icarai Df 2030 </data>
+    </node>
+    <node id="n10358">
+        <data key="x">163.4999999999998</data>
+        <data key="y">101.99999999999997</data>
+        <data key="label">Cristovao Colombo 1512 </data>
+    </node>
+    <node id="n10657">
+        <data key="x">167.4999999999999</data>
+        <data key="y">124.0</data>
+        <data key="label">A J Renner 2230 </data>
+    </node>
+    <node id="n8238">
+        <data key="x">177.4999999999999</data>
+        <data key="y">111.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n7136">
+        <data key="x">219.0</data>
+        <data key="y">83.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10427">
+        <data key="x">153.4999999999999</data>
+        <data key="y">103.0</data>
+        <data key="label">Polonia Df 50 Ferramentas Gerais</data>
+    </node>
+    <node id="n7175">
+        <data key="x">219.0</data>
+        <data key="y">62.5</data>
+        <data key="label"></data>
+    </node>
+    <node id="n9214">
+        <data key="x">189.49999999999991</data>
+        <data key="y">110.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10283">
+        <data key="x">165.4999999999999</data>
+        <data key="y">66.00000000000009</data>
+        <data key="label">Bento Goncalves 215 Df Terminal Azenha</data>
+    </node>
+    <node id="n10403">
+        <data key="x">219.0</data>
+        <data key="y">78.49999999999994</data>
+        <data key="label">Antonio Carvalho 2800 </data>
+    </node>
+    <node id="n7107">
+        <data key="x">203.49999999999991</data>
+        <data key="y">76.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10496">
+        <data key="x">181.5</data>
+        <data key="y">51.0</data>
+        <data key="label">Paulino Azurenha 1063 </data>
+    </node>
+    <node id="n10643">
+        <data key="x">186.49999999999997</data>
+        <data key="y">60.00000000000003</data>
+        <data key="label">Bento Goncalves 2447 </data>
+    </node>
+    <node id="n10216">
+        <data key="x">173.4999999999999</data>
+        <data key="y">90.0</data>
+        <data key="label">Casemiro De Abreu 1785 </data>
+    </node>
+    <node id="n10299">
+        <data key="x">149.49999999999977</data>
+        <data key="y">74.99999999999997</data>
+        <data key="label">Aureliano De Figueiredo Pinto 80 Deca</data>
+    </node>
+    <node id="n10589">
+        <data key="x">194.49999999999991</data>
+        <data key="y">102.99999999999994</data>
+        <data key="label">Plinio Brasil Milano Df 1635 </data>
+    </node>
+    <node id="n8353">
+        <data key="x">197.5</data>
+        <data key="y">46.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10170">
+        <data key="x">185.49999999999994</data>
+        <data key="y">92.0</data>
+        <data key="label">Dr Nilo Pecanha 450 </data>
+    </node>
+    <node id="n9444">
+        <data key="x">198.99999999999994</data>
+        <data key="y">107.49999999999994</data>
+        <data key="label"></data>
+    </node>
+    <node id="n7106">
+        <data key="x">202.49999999999991</data>
+        <data key="y">76.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n8258">
+        <data key="x">189.49999999999991</data>
+        <data key="y">99.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10531">
+        <data key="x">170.4999999999999</data>
+        <data key="y">90.0</data>
+        <data key="label">Casemiro De Abreu Df 1146 Colegio Ipa</data>
+    </node>
+    <node id="n8996">
+        <data key="x">165.4999999999999</data>
+        <data key="y">109.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10219">
+        <data key="x">196.49999999999991</data>
+        <data key="y">77.0</data>
+        <data key="label">Protasio Alves  </data>
+    </node>
+    <node id="n9241">
+        <data key="x">176.5</data>
+        <data key="y">51.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n8184">
+        <data key="x">185.49999999999994</data>
+        <data key="y">88.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n8203">
+        <data key="x">186.49999999999991</data>
+        <data key="y">65.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10823">
+        <data key="x">164.4999999999998</data>
+        <data key="y">84.99999999999997</data>
+        <data key="label">Independencia 993 Cruz Vermelha</data>
+    </node>
+    <node id="n7016">
+        <data key="x">169.4999999999999</data>
+        <data key="y">79.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10432">
+        <data key="x">155.4999999999999</data>
+        <data key="y">70.99999999999997</data>
+        <data key="label">Praia De Belas 1948 Grêmio Nautico Gaucho</data>
+    </node>
+    <node id="n10366">
+        <data key="x">190.49999999999991</data>
+        <data key="y">100.0</data>
+        <data key="label">Cristovao Colombo 3648 </data>
+    </node>
+    <node id="n8452">
+        <data key="x">167.4999999999999</data>
+        <data key="y">110.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10659">
+        <data key="x">172.4999999999999</data>
+        <data key="y">92.0</data>
+        <data key="label">Quintino Bocaiuva 1313 </data>
+    </node>
+    <node id="n10451">
+        <data key="x">231.0</data>
+        <data key="y">90.49999999999994</data>
+        <data key="label">Dr Vargas Neto 120 </data>
+    </node>
+    <node id="n10816">
+        <data key="x">234.00000000000003</data>
+        <data key="y">51.5</data>
+        <data key="label">Campus Ufrgs - Agronomia Sn Informática</data>
+    </node>
+    <node id="n10413">
+        <data key="x">183.49999999999997</data>
+        <data key="y">52.0</data>
+        <data key="label">Pedro Velho 865 </data>
+    </node>
+    <node id="n10181">
+        <data key="x">157.4999999999998</data>
+        <data key="y">92.99999999999997</data>
+        <data key="label">Santo Antonio 525 </data>
+    </node>
+    <node id="n9375">
+        <data key="x">204.49999999999991</data>
+        <data key="y">68.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n8048">
+        <data key="x">164.4999999999999</data>
+        <data key="y">66.00000000000009</data>
+        <data key="label"></data>
+    </node>
+    <node id="n7121">
+        <data key="x">212.0</data>
+        <data key="y">76.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10560">
+        <data key="x">158.0</data>
+        <data key="y">42.5</data>
+        <data key="label">Icarai Df 756/760 </data>
+    </node>
+    <node id="n10254">
+        <data key="x">152.49999999999977</data>
+        <data key="y">74.99999999999997</data>
+        <data key="label">Praia De Belas 586 </data>
+    </node>
+    <node id="n8210">
+        <data key="x">194.49999999999991</data>
+        <data key="y">63.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n8193">
+        <data key="x">185.49999999999994</data>
+        <data key="y">79.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10796">
+        <data key="x">207.49999999999991</data>
+        <data key="y">72.0</data>
+        <data key="label">Sao Benedito Df 1010 </data>
+    </node>
+    <node id="n8067">
+        <data key="x">160.4999999999999</data>
+        <data key="y">62.0000000000001</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10067">
+        <data key="x">142.49999999999977</data>
+        <data key="y">76.99999999999997</data>
+        <data key="label"></data>
+    </node>
+    <node id="n9492">
+        <data key="x">209.49999999999991</data>
+        <data key="y">95.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n9273">
+        <data key="x">213.99999999999994</data>
+        <data key="y">108.49999999999994</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10716">
+        <data key="x">208.99999999999994</data>
+        <data key="y">109.49999999999994</data>
+        <data key="label">Amoroso Costa 232 </data>
+    </node>
+    <node id="n9701">
+        <data key="x">232.0</data>
+        <data key="y">86.49999999999994</data>
+        <data key="label"></data>
+    </node>
+    <node id="n9862">
+        <data key="x">219.0</data>
+        <data key="y">58.5</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10324">
+        <data key="x">186.49999999999983</data>
+        <data key="y">67.0</data>
+        <data key="label">Barao Do Amazonas 1437 </data>
+    </node>
+    <node id="n8256">
+        <data key="x">186.4999999999999</data>
+        <data key="y">102.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10762">
+        <data key="x">145.49999999999784</data>
+        <data key="y">103.99999999999997</data>
+        <data key="label">Julio De Castilhos 607 Ef. Igreja Universal</data>
+    </node>
+    <node id="n10174">
+        <data key="x">184.49999999999983</data>
+        <data key="y">71.0</data>
+        <data key="label">Valparaiso 509 </data>
+    </node>
+    <node id="n10462">
+        <data key="x">172.4999999999999</data>
+        <data key="y">97.0</data>
+        <data key="label">Eudoro Berlink Df 396 </data>
+    </node>
+    <node id="n10626">
+        <data key="x">166.4999999999999</data>
+        <data key="y">110.0</data>
+        <data key="label">Farrapos Df 3045 </data>
+    </node>
+    <node id="n9547">
+        <data key="x">177.49999999999994</data>
+        <data key="y">79.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10768">
+        <data key="x">145.49999999999784</data>
+        <data key="y">104.99999999999997</data>
+        <data key="label">Edgar Koetz Ef Rodoviária Rodoviaria</data>
+    </node>
+    <node id="n6951">
+        <data key="x">156.4999999999999</data>
+        <data key="y">106.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10408">
+        <data key="x">171.5</data>
+        <data key="y">51.0</data>
+        <data key="label">Niteroi Df 535 </data>
+    </node>
+    <node id="n7425">
+        <data key="x">157.4999999999998</data>
+        <data key="y">91.99999999999997</data>
+        <data key="label"></data>
+    </node>
+    <node id="n6976">
+        <data key="x">170.4999999999999</data>
+        <data key="y">96.00000000000006</data>
+        <data key="label"></data>
+    </node>
+    <node id="n9180">
+        <data key="x">163.5</data>
+        <data key="y">33.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10308">
+        <data key="x">260.0</data>
+        <data key="y">17.5</data>
+        <data key="label">Joao Antonio Silveira Al 7626 </data>
+    </node>
+    <node id="n10774">
+        <data key="x">150.49999999999784</data>
+        <data key="y">99.99999999999997</data>
+        <data key="label">Conceicao 165 Acesso Rodoviária</data>
+    </node>
+    <node id="n10734">
+        <data key="x">170.4999999999999</data>
+        <data key="y">91.00000000000006</data>
+        <data key="label">Goethe 11/13 </data>
+    </node>
+    <node id="n8211">
+        <data key="x">197.49999999999991</data>
+        <data key="y">61.99999999999997</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10414">
+        <data key="x">211.99999999999994</data>
+        <data key="y">105.49999999999994</data>
+        <data key="label">Forte 583 </data>
+    </node>
+    <node id="n10422">
+        <data key="x">180.4999999999999</data>
+        <data key="y">61.999999999999886</data>
+        <data key="label">Luiz De Camoes Df 337 Colegio La Salle Santo Antonio</data>
+    </node>
+    <node id="n9459">
+        <data key="x">201.99999999999994</data>
+        <data key="y">106.49999999999994</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10555">
+        <data key="x">180.4999999999999</data>
+        <data key="y">58.999999999999886</data>
+        <data key="label">Padre Antonio Vieira 215 </data>
+    </node>
+    <node id="n10266">
+        <data key="x">197.99999999999991</data>
+        <data key="y">106.49999999999994</data>
+        <data key="label">Plinio Brasil Milano Df 1849 </data>
+    </node>
+    <node id="n10275">
+        <data key="x">174.4999999999998</data>
+        <data key="y">68.0</data>
+        <data key="label">Bento Goncalves 587/Al 583 </data>
+    </node>
+    <node id="n9229">
+        <data key="x">197.49999999999991</data>
+        <data key="y">68.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10623">
+        <data key="x">233.00000000000003</data>
+        <data key="y">50.5</data>
+        <data key="label"> 9500 Entrada Colégio Aplicação - Ufrgs</data>
+    </node>
+    <node id="n10625">
+        <data key="x">165.4999999999999</data>
+        <data key="y">110.0</data>
+        <data key="label">Brasil Df 610 </data>
+    </node>
+    <node id="n10507">
+        <data key="x">167.4999999999998</data>
+        <data key="y">77.0</data>
+        <data key="label">Jeronimo De Ornelas 644 </data>
+    </node>
+    <node id="n9649">
+        <data key="x">193.49999999999991</data>
+        <data key="y">105.99999999999994</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10245">
+        <data key="x">198.99999999999994</data>
+        <data key="y">109.49999999999994</data>
+        <data key="label">Plinio Brasil Milano 2510 </data>
+    </node>
+    <node id="n10456">
+        <data key="x">170.4999999999999</data>
+        <data key="y">97.0</data>
+        <data key="label">Goethe  </data>
+    </node>
+    <node id="n10178">
+        <data key="x">172.4999999999999</data>
+        <data key="y">94.0</data>
+        <data key="label">Tito Livio Zambecari 216 </data>
+    </node>
+    <node id="n9234">
+        <data key="x">196.49999999999991</data>
+        <data key="y">65.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10171">
+        <data key="x">173.4999999999998</data>
+        <data key="y">69.0</data>
+        <data key="label">Santana 1455 Ef Clínica Pinel</data>
+    </node>
+    <node id="n7227">
+        <data key="x">232.0</data>
+        <data key="y">49.5</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10837">
+        <data key="x">198.49999999999991</data>
+        <data key="y">62.0</data>
+        <data key="label">Ipiranga 5790 </data>
+    </node>
+    <node id="n9006">
+        <data key="x">170.4999999999998</data>
+        <data key="y">75.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10745">
+        <data key="x">177.4999999999999</data>
+        <data key="y">114.0</data>
+        <data key="label">Ceara 775 </data>
+    </node>
+    <node id="n10515">
+        <data key="x">165.4999999999999</data>
+        <data key="y">104.99999999999997</data>
+        <data key="label">Presidente Franklin Roosevelt 1407 </data>
+    </node>
+    <node id="n10433">
+        <data key="x">165.4999999999999</data>
+        <data key="y">101.99999999999997</data>
+        <data key="label">Felix Da Cunha 667 </data>
+    </node>
+    <node id="n9184">
+        <data key="x">162.5</data>
+        <data key="y">34.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10391">
+        <data key="x">219.0</data>
+        <data key="y">60.5</data>
+        <data key="label">Bento Goncalves 6670 </data>
+    </node>
+    <node id="n10754">
+        <data key="x">211.49999999999991</data>
+        <data key="y">97.0</data>
+        <data key="label">Francisco Trein 461 </data>
+    </node>
+    <node id="n10184">
+        <data key="x">183.4999999999999</data>
+        <data key="y">120.0</data>
+        <data key="label">Dois Trevo Carrion Junior  Terminal Est. Aeroporto</data>
+    </node>
+    <node id="n10209">
+        <data key="x">233.0</data>
+        <data key="y">44.5</data>
+        <data key="label">Joao De Oliveira Remiao 1689 Posto Liquigas</data>
+    </node>
+    <node id="n10668">
+        <data key="x">209.49999999999991</data>
+        <data key="y">83.0</data>
+        <data key="label">Joao Wallig 2247 </data>
+    </node>
+    <node id="n10635">
+        <data key="x">157.4999999999998</data>
+        <data key="y">88.99999999999997</data>
+        <data key="label">Osvaldo Aranha Df 828 Auditorio Araújo Viana</data>
+    </node>
+    <node id="n8441">
+        <data key="x">179.5</data>
+        <data key="y">28.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10247">
+        <data key="x">167.5</data>
+        <data key="y">28.0</data>
+        <data key="label">Diario De Noticias Df 1555 Posto Br</data>
+    </node>
+    <node id="n9295">
+        <data key="x">207.99999999999994</data>
+        <data key="y">108.49999999999994</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10688">
+        <data key="x">186.49999999999997</data>
+        <data key="y">51.0</data>
+        <data key="label">Manoel Vitorino 533 </data>
+    </node>
+    <node id="n10486">
+        <data key="x">237.0</data>
+        <data key="y">50.5</data>
+        <data key="label">Campus Ufrgs - Agronomia Df Iph Ufrgs</data>
+    </node>
+    <node id="n10624">
+        <data key="x">195.5</data>
+        <data key="y">44.0</data>
+        <data key="label">Cel Aparicio Borges  </data>
+    </node>
+    <node id="n8096">
+        <data key="x">150.49999999999977</data>
+        <data key="y">95.99999999999997</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10429">
+        <data key="x">170.4999999999999</data>
+        <data key="y">78.0</data>
+        <data key="label">Silva So 355 Posto Ipiranga</data>
+    </node>
+    <node id="n10611">
+        <data key="x">187.49999999999994</data>
+        <data key="y">79.0</data>
+        <data key="label">Cacapava 190 </data>
+    </node>
+    <node id="n8464">
+        <data key="x">194.49999999999991</data>
+        <data key="y">65.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10206">
+        <data key="x">167.4999999999998</data>
+        <data key="y">79.0</data>
+        <data key="label">Ramiro Barcelos 2111 </data>
+    </node>
+    <node id="n10595">
+        <data key="x">192.49999999999991</data>
+        <data key="y">106.99999999999994</data>
+        <data key="label">Dr Eduardo Chartier 559 </data>
+    </node>
+    <node id="n10663">
+        <data key="x">227.0</data>
+        <data key="y">86.49999999999994</data>
+        <data key="label">Protasio Alves 8780 Kf Celulares</data>
+    </node>
+    <node id="n9616">
+        <data key="x">151.49999999999977</data>
+        <data key="y">74.99999999999997</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10601">
+        <data key="x">189.49999999999994</data>
+        <data key="y">77.0</data>
+        <data key="label">Protasio Alves 2611 </data>
+    </node>
+    <node id="n10310">
+        <data key="x">155.4999999999999</data>
+        <data key="y">62.0000000000001</data>
+        <data key="label">Jose De Alencar 310 </data>
+    </node>
+    <node id="n10197">
+        <data key="x">187.4999999999999</data>
+        <data key="y">103.0</data>
+        <data key="label">Gen Couto De Magalhaes Df 1685 Dmae</data>
+    </node>
+    <node id="n10812">
+        <data key="x">172.4999999999998</data>
+        <data key="y">77.0</data>
+        <data key="label">Ipiranga Al 2640 </data>
+    </node>
+    <node id="n9892">
+        <data key="x">176.49999999999983</data>
+        <data key="y">77.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n7025">
+        <data key="x">172.4999999999999</data>
+        <data key="y">79.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10532">
+        <data key="x">218.0</data>
+        <data key="y">104.49999999999994</data>
+        <data key="label">Gomes De Freitas Df 32 Nacional</data>
+    </node>
+    <node id="n10836">
+        <data key="x">197.49999999999991</data>
+        <data key="y">66.0</data>
+        <data key="label">Dr Salvador Franca Df 667 Esq. Ipiranga</data>
+    </node>
+    <node id="n8345">
+        <data key="x">197.49999999999991</data>
+        <data key="y">59.99999999999997</data>
+        <data key="label"></data>
+    </node>
+    <node id="n7978">
+        <data key="x">174.4999999999999</data>
+        <data key="y">110.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n8443">
+        <data key="x">177.5</data>
+        <data key="y">26.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10864">
+        <data key="x">170.4999999999999</data>
+        <data key="y">95.00000000000006</data>
+        <data key="label">Goethe Ef Habbib&apos;s Habibs</data>
+    </node>
+    <node id="n10501">
+        <data key="x">208.49999999999991</data>
+        <data key="y">61.0</data>
+        <data key="label">Cubanos 137 </data>
+    </node>
+    <node id="n8103">
+        <data key="x">151.49999999999977</data>
+        <data key="y">95.99999999999997</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10831">
+        <data key="x">199.49999999999991</data>
+        <data key="y">63.0</data>
+        <data key="label">Ipiranga 5900 Monaco</data>
+    </node>
+    <node id="n8549">
+        <data key="x">217.5</data>
+        <data key="y">60.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10205">
+        <data key="x">164.4999999999998</data>
+        <data key="y">81.99999999999997</data>
+        <data key="label">Osvaldo Aranha 1244 Hospital De Pronto Socorro</data>
+    </node>
+    <node id="n10401">
+        <data key="x">227.0</data>
+        <data key="y">94.49999999999994</data>
+        <data key="label">Manoel Elias 113 </data>
+    </node>
+    <node id="n10487">
+        <data key="x">253.0</data>
+        <data key="y">24.5</data>
+        <data key="label">Joao De Oliveira Remiao Df 6670 Rede Construir</data>
+    </node>
+    <node id="n9187">
+        <data key="x">162.5</data>
+        <data key="y">33.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10480">
+        <data key="x">212.0</data>
+        <data key="y">95.49999999999994</data>
+        <data key="label">Saturnino De Brito 534 </data>
+    </node>
+    <node id="n10383">
+        <data key="x">242.0</data>
+        <data key="y">1.5000000000000853</data>
+        <data key="label">Econ Nilo Wulff 251 </data>
+    </node>
+    <node id="n10763">
+        <data key="x">149.49999999999784</data>
+        <data key="y">100.99999999999997</data>
+        <data key="label">Conceicao 123 </data>
+    </node>
+    <node id="n10369">
+        <data key="x">169.4999999999999</data>
+        <data key="y">81.0</data>
+        <data key="label">Helena Sperotto Df 44 </data>
+    </node>
+    <node id="n7567">
+        <data key="x">187.4999999999999</data>
+        <data key="y">120.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10785">
+        <data key="x">197.49999999999991</data>
+        <data key="y">63.0</data>
+        <data key="label">Dr Salvador Franca  </data>
+    </node>
+    <node id="n8468">
+        <data key="x">183.49999999999983</data>
+        <data key="y">70.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10827">
+        <data key="x">186.49999999999994</data>
+        <data key="y">77.0</data>
+        <data key="label">Barao Do Amazonas Df 116 </data>
+    </node>
+    <node id="n10442">
+        <data key="x">139.49999999999977</data>
+        <data key="y">94.99999999999997</data>
+        <data key="label">Cel Fernando Machado Df 649 </data>
+    </node>
+    <node id="n7412">
+        <data key="x">151.49999999999784</data>
+        <data key="y">98.99999999999997</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10845">
+        <data key="x">178.4999999999999</data>
+        <data key="y">110.0</data>
+        <data key="label">Dom Pedro Ii  </data>
+    </node>
+    <node id="n7319">
+        <data key="x">227.0</data>
+        <data key="y">95.49999999999994</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10332">
+        <data key="x">170.4999999999999</data>
+        <data key="y">83.0</data>
+        <data key="label">Mariante 587 </data>
+    </node>
+    <node id="n10698">
+        <data key="x">175.5</data>
+        <data key="y">8.0</data>
+        <data key="label">Juca Batista Df 90 </data>
+    </node>
+    <node id="n10563">
+        <data key="x">196.49999999999991</data>
+        <data key="y">78.0</data>
+        <data key="label"> Norte-sul Estação Viaduto</data>
+    </node>
+    <node id="n10786">
+        <data key="x">191.49999999999991</data>
+        <data key="y">106.99999999999994</data>
+        <data key="label">Gen Couto De Magalhaes 1922 </data>
+    </node>
+    <node id="n10328">
+        <data key="x">197.99999999999994</data>
+        <data key="y">109.49999999999994</data>
+        <data key="label">Plinio Brasil Milano 2298 </data>
+    </node>
+    <node id="n10420">
+        <data key="x">167.4999999999999</data>
+        <data key="y">101.0</data>
+        <data key="label">Cristovao Colombo 2250 </data>
+    </node>
+    <node id="n9556">
+        <data key="x">151.49999999999977</data>
+        <data key="y">88.99999999999997</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10361">
+        <data key="x">238.0</data>
+        <data key="y">1.5000000000000853</data>
+        <data key="label">Econ Nilo Wulff Df 3503 </data>
+    </node>
+    <node id="n10805">
+        <data key="x">206.49999999999991</data>
+        <data key="y">71.0</data>
+        <data key="label">Prof Pedro Santa Helena 360 </data>
+    </node>
+    <node id="n7003">
+        <data key="x">170.4999999999999</data>
+        <data key="y">81.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10658">
+        <data key="x">199.49999999999991</data>
+        <data key="y">62.0</data>
+        <data key="label">Ipiranga 6103 Supra Veiculos</data>
+    </node>
+    <node id="n10218">
+        <data key="x">197.49999999999991</data>
+        <data key="y">76.0</data>
+        <data key="label">Protasio Alves  </data>
+    </node>
+    <node id="n8202">
+        <data key="x">186.49999999999994</data>
+        <data key="y">71.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n9946">
+        <data key="x">142.49999999999784</data>
+        <data key="y">104.99999999999997</data>
+        <data key="label"></data>
+    </node>
+    <node id="n8246">
+        <data key="x">177.4999999999999</data>
+        <data key="y">110.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10513">
+        <data key="x">147.49999999999977</data>
+        <data key="y">76.99999999999997</data>
+        <data key="label">Augusto De Carvalho  Centro Administrativo Fernando Ferrari</data>
+    </node>
+    <node id="n10510">
+        <data key="x">193.49999999999991</data>
+        <data key="y">108.99999999999994</data>
+        <data key="label">Marechal Jose Inacio Da Silva 181 </data>
+    </node>
+    <node id="n10868">
+        <data key="x">253.0</data>
+        <data key="y">10.500000000000075</data>
+        <data key="label">Joao Antonio Silveira Df 5500 </data>
+    </node>
+    <node id="n10676">
+        <data key="x">190.49999999999991</data>
+        <data key="y">109.0</data>
+        <data key="label">Portugal 127 </data>
+    </node>
+    <node id="n10790">
+        <data key="x">211.49999999999991</data>
+        <data key="y">95.0</data>
+        <data key="label">Dr Joao Simplicio A De Carvalho 755 </data>
+    </node>
+    <node id="n10814">
+        <data key="x">157.4999999999998</data>
+        <data key="y">95.99999999999997</data>
+        <data key="label">Santo Antonio Df 222 </data>
+    </node>
+    <node id="n10331">
+        <data key="x">164.4999999999998</data>
+        <data key="y">78.99999999999997</data>
+        <data key="label">Venancio Aires Df 711 Escola Militar</data>
+    </node>
+    <node id="n10733">
+        <data key="x">236.0</data>
+        <data key="y">49.5</data>
+        <data key="label">Bento Goncalves Df 9935 </data>
+    </node>
+    <node id="n10393">
+        <data key="x">163.4999999999998</data>
+        <data key="y">79.99999999999997</data>
+        <data key="label">Jose Bonifacio Df 263 Escola Militar</data>
+    </node>
+    <node id="n10412">
+        <data key="x">184.49999999999997</data>
+        <data key="y">51.0</data>
+        <data key="label">Joao Do Rio 370 </data>
+    </node>
+    <node id="n10799">
+        <data key="x">159.0</data>
+        <data key="y">42.5</data>
+        <data key="label">Divisa  </data>
+    </node>
+    <node id="n10862">
+        <data key="x">175.5</data>
+        <data key="y">2.0</data>
+        <data key="label">Seis Mil Trezentos Vinte Um S/N </data>
+    </node>
+    <node id="n7019">
+        <data key="x">170.4999999999999</data>
+        <data key="y">79.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10776">
+        <data key="x">189.5</data>
+        <data key="y">38.0</data>
+        <data key="label">Cel Aparicio Borges  Esq. Oscar Pereira</data>
+    </node>
+    <node id="n8043">
+        <data key="x">167.49999999999977</data>
+        <data key="y">68.99999999999997</data>
+        <data key="label"></data>
+    </node>
+    <node id="n9285">
+        <data key="x">210.99999999999994</data>
+        <data key="y">108.49999999999994</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10654">
+        <data key="x">168.4999999999999</data>
+        <data key="y">80.0</data>
+        <data key="label">Sao Manoel 368 </data>
+    </node>
+    <node id="n10495">
+        <data key="x">244.0</data>
+        <data key="y">1.5000000000000853</data>
+        <data key="label">Joao Antonio Silveira 2230 </data>
+    </node>
+    <node id="n10669">
+        <data key="x">164.4999999999999</data>
+        <data key="y">58.000000000000114</data>
+        <data key="label">Dr Carlos Barbosa 954 Posto De Gasolina</data>
+    </node>
+    <node id="n8181">
+        <data key="x">185.49999999999994</data>
+        <data key="y">90.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n8444">
+        <data key="x">175.5</data>
+        <data key="y">26.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10596">
+        <data key="x">168.4999999999999</data>
+        <data key="y">54.000000000000114</data>
+        <data key="label">Cel Neves 566 </data>
+    </node>
+    <node id="n9499">
+        <data key="x">209.49999999999991</data>
+        <data key="y">92.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10570">
+        <data key="x">205.49999999999991</data>
+        <data key="y">70.0</data>
+        <data key="label">Prof Pedro Santa Helena 80 </data>
+    </node>
+    <node id="n10325">
+        <data key="x">159.49999999999994</data>
+        <data key="y">62.0000000000001</data>
+        <data key="label">Jose De Alencar 1330 </data>
+    </node>
+    <node id="n7482">
+        <data key="x">151.49999999999977</data>
+        <data key="y">78.99999999999997</data>
+        <data key="label"></data>
+    </node>
+    <node id="n9060">
+        <data key="x">172.5</data>
+        <data key="y">51.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10603">
+        <data key="x">199.99999999999994</data>
+        <data key="y">108.49999999999994</data>
+        <data key="label">Jary 95 </data>
+    </node>
+    <node id="n10449">
+        <data key="x">209.99999999999994</data>
+        <data key="y">109.49999999999994</data>
+        <data key="label">Alianca 147 </data>
+    </node>
+    <node id="n10803">
+        <data key="x">163.4999999999999</data>
+        <data key="y">106.0</data>
+        <data key="label">Santos Dumont  Esq. Sao Pedro</data>
+    </node>
+    <node id="n10672">
+        <data key="x">163.4999999999998</data>
+        <data key="y">79.0</data>
+        <data key="label">Santana 202 </data>
+    </node>
+    <node id="n10706">
+        <data key="x">213.5</data>
+        <data key="y">68.0</data>
+        <data key="label">Ipiranga 8550 Ctg Candeeiros Do Sul</data>
+    </node>
+    <node id="n10300">
+        <data key="x">140.49999999999784</data>
+        <data key="y">98.99999999999997</data>
+        <data key="label">Siqueira Campos Df 940 </data>
+    </node>
+    <node id="n7487">
+        <data key="x">151.49999999999977</data>
+        <data key="y">82.99999999999997</data>
+        <data key="label"></data>
+    </node>
+    <node id="n8205">
+        <data key="x">186.49999999999991</data>
+        <data key="y">63.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10848">
+        <data key="x">152.49999999999784</data>
+        <data key="y">97.99999999999997</data>
+        <data key="label">Dr Barros Cassal Sn Estacionamento</data>
+    </node>
+    <node id="n10715">
+        <data key="x">207.99999999999994</data>
+        <data key="y">109.49999999999994</data>
+        <data key="label">Bernardi 56 </data>
+    </node>
+    <node id="n10193">
+        <data key="x">164.4999999999999</data>
+        <data key="y">106.0</data>
+        <data key="label">Sao Pedro 495 </data>
+    </node>
+    <node id="n6966">
+        <data key="x">165.4999999999999</data>
+        <data key="y">100.99999999999997</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10605">
+        <data key="x">185.49999999999994</data>
+        <data key="y">87.0</data>
+        <data key="label">Ijui 578 </data>
+    </node>
+    <node id="n10505">
+        <data key="x">182.49999999999997</data>
+        <data key="y">52.0</data>
+        <data key="label">Carlos De Laet 210 </data>
+    </node>
+    <node id="n10787">
+        <data key="x">167.5</data>
+        <data key="y">51.0</data>
+        <data key="label">Moab Caldas 125 </data>
+    </node>
+    <node id="n10858">
+        <data key="x">220.0</data>
+        <data key="y">57.5</data>
+        <data key="label">Bento Goncalves 7167 Motel Atenas</data>
+    </node>
+    <node id="n10242">
+        <data key="x">218.0</data>
+        <data key="y">108.49999999999994</data>
+        <data key="label">Assis Brasil Ef Strip Center </data>
+    </node>
+    <node id="n6956">
+        <data key="x">165.4999999999999</data>
+        <data key="y">106.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10720">
+        <data key="x">179.4999999999999</data>
+        <data key="y">57.999999999999886</data>
+        <data key="label">Dr Malheiros 32/44 </data>
+    </node>
+    <node id="n10182">
+        <data key="x">252.0</data>
+        <data key="y">25.5</data>
+        <data key="label">Joao De Oliveira Remiao 6437 </data>
+    </node>
+    <node id="n8341">
+        <data key="x">197.49999999999991</data>
+        <data key="y">64.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n9179">
+        <data key="x">164.5</data>
+        <data key="y">32.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10198">
+        <data key="x">155.4999999999999</data>
+        <data key="y">67.99999999999997</data>
+        <data key="label">Praia De Belas Al 2184 </data>
+    </node>
+    <node id="n10773">
+        <data key="x">210.49999999999991</data>
+        <data key="y">63.0</data>
+        <data key="label">Ipiranga 6929 Dormiloja</data>
+    </node>
+    <node id="n10830">
+        <data key="x">207.49999999999994</data>
+        <data key="y">100.99999999999997</data>
+        <data key="label">Joao Wallig 285 </data>
+    </node>
+    <node id="n10188">
+        <data key="x">212.0</data>
+        <data key="y">78.0</data>
+        <data key="label">Saturnino De Brito 350 </data>
+    </node>
+    <node id="n10215">
+        <data key="x">175.5</data>
+        <data key="y">24.0</data>
+        <data key="label">Cavalhada 2517 </data>
+    </node>
+    <node id="n10437">
+        <data key="x">156.4999999999998</data>
+        <data key="y">78.99999999999997</data>
+        <data key="label">Aureliano De Figueiredo Pinto 858 Mercado Nacional</data>
+    </node>
+    <node id="n10566">
+        <data key="x">186.49999999999997</data>
+        <data key="y">61.00000000000003</data>
+        <data key="label">Barao Do Amazonas 1839 </data>
+    </node>
+    <node id="n9218">
+        <data key="x">190.49999999999991</data>
+        <data key="y">106.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10337">
+        <data key="x">204.49999999999991</data>
+        <data key="y">69.0</data>
+        <data key="label">Prof Cristiano Fischer Df 1510 </data>
+    </node>
+    <node id="n10703">
+        <data key="x">235.0</data>
+        <data key="y">51.5</data>
+        <data key="label">Campus Ufrgs - Agronomia Sn Anel Viario</data>
+    </node>
+    <node id="n10832">
+        <data key="x">231.0</data>
+        <data key="y">87.49999999999994</data>
+        <data key="label">Adelino Ferreira Jardim 48 </data>
+    </node>
+    <node id="n7907">
+        <data key="x">189.4999999999999</data>
+        <data key="y">120.0</data>
+        <data key="label"></data>
+    </node>
+    <node id="n10535">
+        <data key="x">139.49999999999784</data>
+        <data key="y">97.99999999999997</data>
+        <data key="label">Caldas Junior Sn Esq. Andradas</data>
+    </node>
+    <edge id="e1" source="n10658" target="n10837">
+        <data key="l_T9">TRUE</data>
+    </edge>
+    <edge id="e2" source="n8210" target="n10785">
+        <data key="l_T9">TRUE</data>
+    </edge>
+    <edge id="e3" source="n10485" target="n10486">
+        <data key="l_343">TRUE</data>
+    </edge>
+    <edge id="e4" source="n8210" target="n8345">
+        <data key="l_T22">TRUE</data>
+    </edge>
+    <edge id="e5" source="n10414" target="n10480">
+        <data key="l_T4">TRUE</data>
+    </edge>
+    <edge id="e6" source="n10219" target="n10601">
+        <data key="l_T6">TRUE</data>
+    </edge>
+    <edge id="e7" source="n7567" target="n7907">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e8" source="n8036" target="n9006">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e9" source="n10604" target="n10625">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e10" source="n10455" target="n10733">
+        <data key="l_343">TRUE</data>
+    </edge>
+    <edge id="e11" source="n7978" target="n8452">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e12" source="n9862" target="n10391">
+        <data key="l_343">TRUE</data>
+    </edge>
+    <edge id="e13" source="n8043" target="n8048">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e14" source="n10412" target="n10413">
+        <data key="l_T2A">TRUE</data>
+    </edge>
+    <edge id="e15" source="n10182" target="n10487">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e16" source="n8272" target="n10563">
+        <data key="l_T112">TRUE</data>
+    </edge>
+    <edge id="e17" source="n8996" target="n10626">
+        <data key="l_T2A">TRUE</data>
+    </edge>
+    <edge id="e18" source="n10383" target="n10495">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e19" source="n10206" target="n10507">
+        <data key="l_C31">TRUE</data>
+    </edge>
+    <edge id="e20" source="n6956" target="n10193">
+        <data key="l_T8">TRUE</data>
+    </edge>
+    <edge id="e21" source="n8464" target="n9229">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e22" source="n10698" target="n10862">
+        <data key="l_T112">TRUE</data>
+    </edge>
+    <edge id="e23" source="n10437" target="n10672">
+        <data key="l_C3">TRUE</data>
+    </edge>
+    <edge id="e24" source="n7425" target="n10181">
+        <data key="l_C3">TRUE</data>
+    </edge>
+    <edge id="e25" source="n9459" target="n10830">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e26" source="n8203" target="n8205">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e27" source="n9183" target="n9184">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e28" source="n6966" target="n10420">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e29" source="n10361" target="n10383">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e30" source="n10357" target="n10868">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e31" source="n9459" target="n10603">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e32" source="n7136" target="n10520">
+        <data key="l_T8">TRUE</data>
+    </edge>
+    <edge id="e33" source="n10275" target="n10422">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e34" source="n10216" target="n10548">
+        <data key="l_T9">TRUE</data>
+    </edge>
+    <edge id="e35" source="n10308" target="n10868">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e36" source="n10393" target="n10672">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e37" source="n6951" target="n10604">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e38" source="n10337" target="n10570">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e39" source="n8096" target="n8103">
+        <data key="l_T9">TRUE</data>
+    </edge>
+    <edge id="e40" source="n9179" target="n9180">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e41" source="n7016" target="n10654">
+        <data key="l_T6">TRUE</data>
+    </edge>
+    <edge id="e42" source="n8468" target="n9892">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e43" source="n10401" target="n10663">
+        <data key="l_T10">TRUE</data>
+    </edge>
+    <edge id="e44" source="n7058" target="n10827">
+        <data key="l_T6">TRUE</data>
+    </edge>
+    <edge id="e45" source="n7556" target="n10762">
+        <data key="l_C3">TRUE</data>
+    </edge>
+    <edge id="e46" source="n9214" target="n10845">
+        <data key="l_T2A">TRUE</data>
+    </edge>
+    <edge id="e47" source="n10198" target="n10310">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e48" source="n8193" target="n9547">
+        <data key="l_T6">TRUE</data>
+    </edge>
+    <edge id="e49" source="n10520" target="n10532">
+        <data key="l_T6">TRUE</data>
+    </edge>
+    <edge id="e50" source="n8523" target="n8549">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e51" source="n8256" target="n10845">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e52" source="n7420" target="n10848">
+        <data key="l_C3">TRUE</data>
+    </edge>
+    <edge id="e53" source="n8258" target="n10366">
+        <data key="l_T22">TRUE</data>
+    </edge>
+    <edge id="e54" source="n10332" target="n10734">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e55" source="n10496" target="n10505">
+        <data key="l_T2A">TRUE</data>
+    </edge>
+    <edge id="e56" source="n8211" target="n10785">
+        <data key="l_T112">TRUE</data>
+    </edge>
+    <edge id="e57" source="n9180" target="n9187">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e58" source="n10455" target="n10486">
+        <data key="l_343">TRUE</data>
+    </edge>
+    <edge id="e59" source="n8036" target="n8043">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e60" source="n8211" target="n8345">
+        <data key="l_T112">TRUE</data>
+    </edge>
+    <edge id="e61" source="n8036" target="n10171">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e62" source="n10734" target="n10823">
+        <data key="l_T9">TRUE</data>
+    </edge>
+    <edge id="e63" source="n10570" target="n10805">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e64" source="n10121" target="n10657">
+        <data key="l_T2A1">TRUE</data>
+    </edge>
+    <edge id="e65" source="n7003" target="n10369">
+        <data key="l_T6">TRUE</data>
+    </edge>
+    <edge id="e66" source="n9892" target="n10812">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e67" source="n10245" target="n10603">
+        <data key="l_T13">TRUE</data>
+    </edge>
+    <edge id="e68" source="n10715" target="n10716">
+        <data key="l_T4">TRUE</data>
+    </edge>
+    <edge id="e69" source="n10369" target="n10654">
+        <data key="l_T6">TRUE</data>
+    </edge>
+    <edge id="e70" source="n8181" target="n10170">
+        <data key="l_T7">TRUE</data>
+    </edge>
+    <edge id="e71" source="n9229" target="n10218">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e72" source="n9295" target="n10599">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e73" source="n7216" target="n10858">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e74" source="n10501" target="n10717">
+        <data key="l_T9">TRUE</data>
+    </edge>
+    <edge id="e75" source="n6966" target="n10433">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e76" source="n10442" target="n10854">
+        <data key="l_C3">TRUE</data>
+    </edge>
+    <edge id="e77" source="n8203" target="n8464">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e78" source="n7136" target="n10403">
+        <data key="l_T10">TRUE</data>
+    </edge>
+    <edge id="e79" source="n8468" target="n10324">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e80" source="n6966" target="n6976">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e81" source="n8067" target="n10669">
+        <data key="l_T2A">TRUE</data>
+    </edge>
+    <edge id="e82" source="n7106" target="n10218">
+        <data key="l_T6">TRUE</data>
+    </edge>
+    <edge id="e83" source="n8203" target="n10324">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e84" source="n9375" target="n10831">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e85" source="n7556" target="n10300">
+        <data key="l_C3">TRUE</data>
+    </edge>
+    <edge id="e86" source="n8482" target="n10643">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e87" source="n8184" target="n10605">
+        <data key="l_T9">TRUE</data>
+    </edge>
+    <edge id="e88" source="n8341" target="n9234">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e89" source="n9547" target="n10605">
+        <data key="l_T7">TRUE</data>
+    </edge>
+    <edge id="e90" source="n8193" target="n10611">
+        <data key="l_T2A">TRUE</data>
+    </edge>
+    <edge id="e91" source="n9234" target="n10836">
+        <data key="l_T22">TRUE</data>
+    </edge>
+    <edge id="e92" source="n8202" target="n10174">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e93" source="n7974" target="n8238">
+        <data key="l_T52">TRUE</data>
+    </edge>
+    <edge id="e94" source="n9006" target="n10812">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e95" source="n7487" target="n9556">
+        <data key="l_T7">TRUE</data>
+    </edge>
+    <edge id="e96" source="n7319" target="n10401">
+        <data key="l_T10">TRUE</data>
+    </edge>
+    <edge id="e97" source="n8258" target="n8272">
+        <data key="l_T112">TRUE</data>
+    </edge>
+    <edge id="e98" source="n10449" target="n10716">
+        <data key="l_T4">TRUE</data>
+    </edge>
+    <edge id="e99" source="n7979" target="n8246">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e100" source="n10454" target="n10698">
+        <data key="l_T112">TRUE</data>
+    </edge>
+    <edge id="e101" source="n9492" target="n10564">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e102" source="n8441" target="n10776">
+        <data key="l_T112">TRUE</data>
+    </edge>
+    <edge id="e103" source="n7227" target="n10733">
+        <data key="l_343">TRUE</data>
+    </edge>
+    <edge id="e104" source="n9060" target="n9241">
+        <data key="l_T2A">TRUE</data>
+    </edge>
+    <edge id="e105" source="n7107" target="n7121">
+        <data key="l_T6">TRUE</data>
+    </edge>
+    <edge id="e106" source="n7974" target="n7978">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e107" source="n9499" target="n10668">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e108" source="n9375" target="n10337">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e109" source="n10182" target="n10209">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e110" source="n10566" target="n10643">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e111" source="n10595" target="n10786">
+        <data key="l_T2A">TRUE</data>
+    </edge>
+    <edge id="e112" source="n7175" target="n10706">
+        <data key="l_343">TRUE</data>
+    </edge>
+    <edge id="e113" source="n10564" target="n10754">
+        <data key="l_T7">TRUE</data>
+    </edge>
+    <edge id="e114" source="n10601" target="n10827">
+        <data key="l_T6">TRUE</data>
+    </edge>
+    <edge id="e115" source="n7016" target="n10429">
+        <data key="l_T8">TRUE</data>
+    </edge>
+    <edge id="e116" source="n8256" target="n10197">
+        <data key="l_T2A">TRUE</data>
+    </edge>
+    <edge id="e117" source="n8549" target="n9862">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e118" source="n9375" target="n10706">
+        <data key="l_343">TRUE</data>
+    </edge>
+    <edge id="e119" source="n7974" target="n10745">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e120" source="n9191" target="n10393">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e121" source="n10441" target="n10717">
+        <data key="l_T13">TRUE</data>
+    </edge>
+    <edge id="e122" source="n9295" target="n10715">
+        <data key="l_T4">TRUE</data>
+    </edge>
+    <edge id="e123" source="n10535" target="n10854">
+        <data key="l_C3">TRUE</data>
+    </edge>
+    <edge id="e124" source="n9180" target="n9184">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e125" source="n8205" target="n10566">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e126" source="n10299" target="n10513">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e127" source="n9060" target="n10720">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e128" source="n10247" target="n10525">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e129" source="n10254" target="n10350">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e130" source="n7567" target="n10184">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e131" source="n10242" target="n10532">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e132" source="n7482" target="n9616">
+        <data key="l_T7">TRUE</data>
+    </edge>
+    <edge id="e133" source="n7978" target="n7979">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e134" source="n9285" target="n10449">
+        <data key="l_T4">TRUE</data>
+    </edge>
+    <edge id="e135" source="n8095" target="n10432">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e136" source="n6956" target="n8996">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e137" source="n8482" target="n10688">
+        <data key="l_T2A">TRUE</data>
+    </edge>
+    <edge id="e138" source="n8103" target="n9556">
+        <data key="l_343">TRUE</data>
+    </edge>
+    <edge id="e139" source="n7025" target="n9547">
+        <data key="l_T6">TRUE</data>
+    </edge>
+    <edge id="e140" source="n8353" target="n10624">
+        <data key="l_T112">TRUE</data>
+    </edge>
+    <edge id="e141" source="n9862" target="n10858">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e142" source="n10591" target="n10669">
+        <data key="l_T2A">TRUE</data>
+    </edge>
+    <edge id="e143" source="n8272" target="n9499">
+        <data key="l_T7">TRUE</data>
+    </edge>
+    <edge id="e144" source="n10623" target="n10816">
+        <data key="l_T10">TRUE</data>
+    </edge>
+    <edge id="e145" source="n10555" target="n10720">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e146" source="n7106" target="n7107">
+        <data key="l_T6">TRUE</data>
+    </edge>
+    <edge id="e147" source="n7216" target="n7227">
+        <data key="l_T10">TRUE</data>
+    </edge>
+    <edge id="e148" source="n7412" target="n8103">
+        <data key="l_343">TRUE</data>
+    </edge>
+    <edge id="e149" source="n7450" target="n8036">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e150" source="n7025" target="n10812">
+        <data key="l_343">TRUE</data>
+    </edge>
+    <edge id="e151" source="n7016" target="n7019">
+        <data key="l_T6">TRUE</data>
+    </edge>
+    <edge id="e152" source="n8996" target="n10625">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e153" source="n9214" target="n10676">
+        <data key="l_T2">TRUE</data>
+    </edge>
+    <edge id="e154" source="n7175" target="n9871">
+        <data key="l_T10">TRUE</data>
+    </edge>
+    <edge id="e155" source="n8211" target="n10837">
+        <data key="l_T9">TRUE</data>
+    </edge>
+    <edge id="e156" source="n7559" target="n7567">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e157" source="n7058" target="n8193">
+        <data key="l_T6">TRUE</data>
+    </edge>
+    <edge id="e158" source="n10198" target="n10432">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e159" source="n10564" target="n10830">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e160" source="n9701" target="n10832">
+        <data key="l_T6">TRUE</data>
+    </edge>
+    <edge id="e161" source="n10266" target="n10328">
+        <data key="l_T13">TRUE</data>
+    </edge>
+    <edge id="e162" source="n7450" target="n10672">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e163" source="n10408" target="n10787">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e164" source="n8441" target="n8443">
+        <data key="l_T112">TRUE</data>
+    </edge>
+    <edge id="e165" source="n9152" target="n10525">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e166" source="n10252" target="n10862">
+        <data key="l_T112">TRUE</data>
+    </edge>
+    <edge id="e167" source="n6951" target="n10803">
+        <data key="l_T8">TRUE</data>
+    </edge>
+    <edge id="e168" source="n9649" target="n10595">
+        <data key="l_T2A">TRUE</data>
+    </edge>
+    <edge id="e169" source="n9006" target="n10429">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e170" source="n10418" target="n10599">
+        <data key="l_T4">TRUE</data>
+    </edge>
+    <edge id="e171" source="n8210" target="n9234">
+        <data key="l_T22">TRUE</data>
+    </edge>
+    <edge id="e172" source="n7482" target="n10437">
+        <data key="l_C3">TRUE</data>
+    </edge>
+    <edge id="e173" source="n10560" target="n10799">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e174" source="n8523" target="n10717">
+        <data key="l_T13">TRUE</data>
+    </edge>
+    <edge id="e175" source="n10310" target="n10325">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e176" source="n10218" target="n10219">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e177" source="n10589" target="n10594">
+        <data key="l_T13">TRUE</data>
+    </edge>
+    <edge id="e178" source="n10171" target="n10275">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e179" source="n9218" target="n10366">
+        <data key="l_T22">TRUE</data>
+    </edge>
+    <edge id="e180" source="n8452" target="n10626">
+        <data key="l_T22">TRUE</data>
+    </edge>
+    <edge id="e181" source="n8048" target="n8067">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e182" source="n10763" target="n10774">
+        <data key="l_C3">TRUE</data>
+    </edge>
+    <edge id="e183" source="n6976" target="n10864">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e184" source="n9273" target="n10242">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e185" source="n7016" target="n10206">
+        <data key="l_343">TRUE</data>
+    </edge>
+    <edge id="e186" source="n9184" target="n9187">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e187" source="n7175" target="n10403">
+        <data key="l_T10">TRUE</data>
+    </edge>
+    <edge id="e188" source="n9229" target="n10836">
+        <data key="l_T112">TRUE</data>
+    </edge>
+    <edge id="e189" source="n10357" target="n10495">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e190" source="n8995" target="n10252">
+        <data key="l_T112">TRUE</data>
+    </edge>
+    <edge id="e191" source="n8202" target="n10827">
+        <data key="l_T9">TRUE</data>
+    </edge>
+    <edge id="e192" source="n8452" target="n10657">
+        <data key="l_T2A">TRUE</data>
+    </edge>
+    <edge id="e193" source="n10181" target="n10814">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e194" source="n8205" target="n8210">
+        <data key="l_T9">TRUE</data>
+    </edge>
+    <edge id="e195" source="n10485" target="n10703">
+        <data key="l_T10">TRUE</data>
+    </edge>
+    <edge id="e196" source="n10414" target="n10418">
+        <data key="l_T4">TRUE</data>
+    </edge>
+    <edge id="e197" source="n7227" target="n10623">
+        <data key="l_T10">TRUE</data>
+    </edge>
+    <edge id="e198" source="n10219" target="n10563">
+        <data key="l_T112">TRUE</data>
+    </edge>
+    <edge id="e199" source="n10703" target="n10816">
+        <data key="l_T10">TRUE</data>
+    </edge>
+    <edge id="e200" source="n7482" target="n7487">
+        <data key="l_C3">TRUE</data>
+    </edge>
+    <edge id="e201" source="n10625" target="n10626">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e202" source="n8549" target="n9871">
+        <data key="l_T10">TRUE</data>
+    </edge>
+    <edge id="e203" source="n9273" target="n10532">
+        <data key="l_T6">TRUE</data>
+    </edge>
+    <edge id="e204" source="n9285" target="n10599">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e205" source="n8468" target="n10174">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e206" source="n10178" target="n10659">
+        <data key="l_T9">TRUE</data>
+    </edge>
+    <edge id="e207" source="n8048" target="n10283">
+        <data key="l_T6">TRUE</data>
+    </edge>
+    <edge id="e208" source="n9616" target="n10432">
+        <data key="l_T7">TRUE</data>
+    </edge>
+    <edge id="e209" source="n10408" target="n10596">
+        <data key="l_T2A">TRUE</data>
+    </edge>
+    <edge id="e210" source="n8232" target="n10664">
+        <data key="l_T9">TRUE</data>
+    </edge>
+    <edge id="e211" source="n8238" target="n8246">
+        <data key="l_T11">TRUE</data>
+    </edge>
+    <edge id="e212" source="n9492" target="n10790">
+        <data key="l_T7">TRUE</data>
+    </edge>
+    <edge id="e213" source="n9187" target="n10247">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e214" source="n9556" target="n10635">
+        <data key="l_343">TRUE</data>
+    </edge>
+    <edge id="e215" source="n10331" target="n10672">
+        <data key="l_C3">TRUE</data>
+    </edge>
+    <edge id="e216" source="n9191" target="n10205">
+        <data key="l_C3">TRUE</data>
+    </edge>
+    <edge id="e217" source="n9218" target="n10197">
+        <data key="l_T2A">TRUE</data>
+    </edge>
+    <edge id="e218" source="n10456" target="n10462">
+        <data key="l_T9">TRUE</data>
+    </edge>
+    <edge id="e219" source="n7121" target="n10188">
+        <data key="l_T4">TRUE</data>
+    </edge>
+    <edge id="e220" source="n10403" target="n10663">
+        <data key="l_T10">TRUE</data>
+    </edge>
+    <edge id="e221" source="n10501" target="n10664">
+        <data key="l_T9">TRUE</data>
+    </edge>
+    <edge id="e222" source="n10308" target="n10487">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e223" source="n8193" target="n10605">
+        <data key="l_T9">TRUE</data>
+    </edge>
+    <edge id="e224" source="n8043" target="n10350">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e225" source="n7425" target="n10823">
+        <data key="l_C3">TRUE</data>
+    </edge>
+    <edge id="e226" source="n9444" target="n10603">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e227" source="n7450" target="n10507">
+        <data key="l_C31">TRUE</data>
+    </edge>
+    <edge id="e228" source="n7003" target="n10332">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e229" source="n9191" target="n10331">
+        <data key="l_C3">TRUE</data>
+    </edge>
+    <edge id="e230" source="n8353" target="n8523">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e231" source="n8067" target="n10325">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e232" source="n10205" target="n10823">
+        <data key="l_C3">TRUE</data>
+    </edge>
+    <edge id="e233" source="n7556" target="n9946">
+        <data key="l_343">TRUE</data>
+    </edge>
+    <edge id="e234" source="n9295" target="n10603">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e235" source="n10433" target="n10515">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e236" source="n10184" target="n10745">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e237" source="n7420" target="n8103">
+        <data key="l_T9">TRUE</data>
+    </edge>
+    <edge id="e238" source="n9152" target="n10560">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e239" source="n10193" target="n10803">
+        <data key="l_T8">TRUE</data>
+    </edge>
+    <edge id="e240" source="n6956" target="n10515">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e241" source="n10734" target="n10864">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e242" source="n9616" target="n10254">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e243" source="n9218" target="n10676">
+        <data key="l_T2">TRUE</data>
+    </edge>
+    <edge id="e244" source="n8256" target="n8258">
+        <data key="l_T112">TRUE</data>
+    </edge>
+    <edge id="e245" source="n8246" target="n10845">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e246" source="n10300" target="n10535">
+        <data key="l_C3">TRUE</data>
+    </edge>
+    <edge id="e247" source="n9616" target="n10299">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e248" source="n8341" target="n10785">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e249" source="n8345" target="n8353">
+        <data key="l_T112">TRUE</data>
+    </edge>
+    <edge id="e250" source="n7979" target="n10420">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e251" source="n7019" target="n7025">
+        <data key="l_T6">TRUE</data>
+    </edge>
+    <edge id="e252" source="n6976" target="n10456">
+        <data key="l_T9">TRUE</data>
+    </edge>
+    <edge id="e253" source="n8441" target="n9152">
+        <data key="l_T4">TRUE</data>
+    </edge>
+    <edge id="e254" source="n10422" target="n10555">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e255" source="n8464" target="n9234">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e256" source="n7420" target="n10181">
+        <data key="l_C3">TRUE</data>
+    </edge>
+    <edge id="e257" source="n9649" target="n10510">
+        <data key="l_T2A">TRUE</data>
+    </edge>
+    <edge id="e258" source="n8232" target="n10773">
+        <data key="l_T13">TRUE</data>
+    </edge>
+    <edge id="e259" source="n10754" target="n10790">
+        <data key="l_T7">TRUE</data>
+    </edge>
+    <edge id="e260" source="n10762" target="n10768">
+        <data key="l_C3">TRUE</data>
+    </edge>
+    <edge id="e261" source="n9649" target="n10594">
+        <data key="l_T13">TRUE</data>
+    </edge>
+    <edge id="e262" source="n10531" target="n10659">
+        <data key="l_T9">TRUE</data>
+    </edge>
+    <edge id="e263" source="n10413" target="n10505">
+        <data key="l_T2A">TRUE</data>
+    </edge>
+    <edge id="e264" source="n10216" target="n10531">
+        <data key="l_T9">TRUE</data>
+    </edge>
+    <edge id="e265" source="n8181" target="n10548">
+        <data key="l_T9">TRUE</data>
+    </edge>
+    <edge id="e266" source="n10401" target="n10451">
+        <data key="l_T6">TRUE</data>
+    </edge>
+    <edge id="e267" source="n9492" target="n9499">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e268" source="n10215" target="n10453">
+        <data key="l_T112">TRUE</data>
+    </edge>
+    <edge id="e269" source="n9218" target="n10786">
+        <data key="l_T2A">TRUE</data>
+    </edge>
+    <edge id="e270" source="n8353" target="n8482">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e271" source="n10067" target="n10513">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e272" source="n8443" target="n8444">
+        <data key="l_T111">TRUE</data>
+    </edge>
+    <edge id="e273" source="n8181" target="n8184">
+        <data key="l_T9">TRUE</data>
+    </edge>
+    <edge id="e274" source="n10412" target="n10688">
+        <data key="l_T2A">TRUE</data>
+    </edge>
+    <edge id="e275" source="n10831" target="n10837">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e276" source="n7107" target="n10796">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e277" source="n7003" target="n7019">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e278" source="n10245" target="n10328">
+        <data key="l_T13">TRUE</data>
+    </edge>
+    <edge id="e279" source="n7412" target="n10774">
+        <data key="l_C3">TRUE</data>
+    </edge>
+    <edge id="e280" source="n10510" target="n10676">
+        <data key="l_T2A">TRUE</data>
+    </edge>
+    <edge id="e281" source="n8272" target="n10170">
+        <data key="l_T7">TRUE</data>
+    </edge>
+    <edge id="e282" source="n10763" target="n10768">
+        <data key="l_C3">TRUE</data>
+    </edge>
+    <edge id="e283" source="n7106" target="n10668">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e284" source="n8238" target="n10745">
+        <data key="l_T11">TRUE</data>
+    </edge>
+    <edge id="e285" source="n9241" target="n10776">
+        <data key="l_T2">TRUE</data>
+    </edge>
+    <edge id="e286" source="n10266" target="n10589">
+        <data key="l_T13">TRUE</data>
+    </edge>
+    <edge id="e287" source="n10658" target="n10831">
+        <data key="l_T9">TRUE</data>
+    </edge>
+    <edge id="e288" source="n9273" target="n9285">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e289" source="n7319" target="n10532">
+        <data key="l_T10">TRUE</data>
+    </edge>
+    <edge id="e290" source="n7487" target="n10442">
+        <data key="l_C3">TRUE</data>
+    </edge>
+    <edge id="e291" source="n10205" target="n10206">
+        <data key="l_C3">TRUE</data>
+    </edge>
+    <edge id="e292" source="n7412" target="n10848">
+        <data key="l_C3">TRUE</data>
+    </edge>
+    <edge id="e293" source="n10188" target="n10480">
+        <data key="l_T4">TRUE</data>
+    </edge>
+    <edge id="e294" source="n10624" target="n10776">
+        <data key="l_T112">TRUE</data>
+    </edge>
+    <edge id="e295" source="n8232" target="n10831">
+        <data key="l_T9">TRUE</data>
+    </edge>
+    <edge id="e296" source="n7019" target="n10429">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e297" source="n10785" target="n10837">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e298" source="n7121" target="n10520">
+        <data key="l_T6">TRUE</data>
+    </edge>
+    <edge id="e299" source="n10451" target="n10832">
+        <data key="l_T6">TRUE</data>
+    </edge>
+    <edge id="e300" source="n10178" target="n10462">
+        <data key="l_T9">TRUE</data>
+    </edge>
+    <edge id="e301" source="n10787" target="n10799">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e302" source="n10591" target="n10596">
+        <data key="l_T2A">TRUE</data>
+    </edge>
+    <edge id="e303" source="n7216" target="n10209">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e304" source="n9871" target="n10391">
+        <data key="l_343">TRUE</data>
+    </edge>
+    <edge id="e305" source="n9946" target="n10768">
+        <data key="l_343">TRUE</data>
+    </edge>
+    <edge id="e306" source="n9241" target="n10496">
+        <data key="l_T2A">TRUE</data>
+    </edge>
+    <edge id="e307" source="n10358" target="n10433">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e308" source="n8443" target="n10215">
+        <data key="l_T112">TRUE</data>
+    </edge>
+    <edge id="e309" source="n10453" target="n10454">
+        <data key="l_T112">TRUE</data>
+    </edge>
+    <edge id="e310" source="n9060" target="n10408">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e311" source="n8202" target="n10324">
+        <data key="l_T12A">TRUE</data>
+    </edge>
+    <edge id="e312" source="n7425" target="n10635">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e313" source="n10358" target="n10814">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e314" source="n6951" target="n10427">
+        <data key="l_T3">TRUE</data>
+    </edge>
+    <edge id="e315" source="n10601" target="n10611">
+        <data key="l_T2A">TRUE</data>
+    </edge>
+    <edge id="e316" source="n10205" target="n10635">
+        <data key="l_T5">TRUE</data>
+    </edge>
+    <edge id="e317" source="n8341" target="n10836">
+        <data key="l_T112">TRUE</data>
+    </edge>
+    <edge id="e318" source="n10796" target="n10805">
+        <data key="l_T1">TRUE</data>
+    </edge>
+    <edge id="e319" source="n10441" target="n10773">
+        <data key="l_T13">TRUE</data>
+    </edge>
+  </graph>
+</graphml>

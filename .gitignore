@@ -1,6 +1,5 @@
 # Pastas de análise, testes e rascunhos locais
 Resto/
-Resultados/
 artigos/
 
 # Scripts e anotações avulsas de análise
@@ -12,11 +11,11 @@ Secoes1e2.txt
 Secoes3e4e5.txt
 Secoes6e7.txt
 
-# Saídas geradas pelo otimizador (GraphML, imagens e logs de execução)
-*.graphml
+# Saídas geradas pelo otimizador na raiz (GraphML, imagens e logs de execução)
+/*.graphml
 /mapa_otimizado_poa.png
-*.out
-*.err
+/*.out
+/*.err
 
 # Rascunhos, exemplos do template e artefatos de compilação LaTeX
 tcc-latex/TCC-Draft.md
