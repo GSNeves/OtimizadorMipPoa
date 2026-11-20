@@ -1,0 +1,48 @@
+# Pastas de análise, testes e rascunhos locais
+Resto/
+Resultados/
+artigos/
+
+# Scripts e anotações avulsas de análise
+count_crossings.py
+analiseAbstracao.txt
+distanceThresholds.txt
+newDistanceThresholds.txt
+Secoes1e2.txt
+Secoes3e4e5.txt
+Secoes6e7.txt
+
+# Saídas geradas pelo otimizador (GraphML, imagens e logs de execução)
+*.graphml
+/mapa_otimizado_poa.png
+*.out
+*.err
+
+# Rascunhos, exemplos do template e artefatos de compilação LaTeX
+tcc-latex/TCC-Draft.md
+tcc-latex/README.md
+tcc-latex/infufrgs-doc.*
+tcc-latex/infufrgs-example.*
+tcc-latex/tcc-gustavo.pdf
+tcc-latex/tcc-gustavo-revisado.pdf
+tcc-latex/imagens/*.jpg
+tcc-latex/imagens/sadahiro.png
+slides/slides.pdf
+slides/README
+slides/AUTHORS
+slides/MANIFEST
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
